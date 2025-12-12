@@ -1,6 +1,7 @@
 ## Hi there 👋
 👨‍💻I'm Ashok
 
-Working on Spring Boot microservices and continuously improving my backend Java skills.
+Learning by doing—building Java applications with Spring Boot, Spring MVC, and microservices.
+Combining frontend and DevOps to turn ideas into complete, working systems.
 
 
